@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://www.youtube.com/channel/UC6F8_4OLIQ9bkurVgdcLAeQ?app=desktop"
+      }
+    },
+    "condition": {
+      "urlFilter": "||youtube.com/hugolaa",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
