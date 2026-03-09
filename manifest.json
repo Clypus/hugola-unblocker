@@ -39,6 +39,9 @@
       "strict_min_version": "113.0"
     }
   },
+  "data_collection_permissions": {
+    "data_collected": false
+  },
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
